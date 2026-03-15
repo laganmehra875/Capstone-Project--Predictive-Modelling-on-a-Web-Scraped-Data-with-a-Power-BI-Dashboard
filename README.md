@@ -1,4 +1,4 @@
-# Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard
+# Capstone-Project on Flipkart--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard
 
 **🎯Project Objective**
 
