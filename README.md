@@ -88,6 +88,10 @@ Key objectives:
 * Product popularity
 * Discount insights
 
+***Flipkart PowerBI Dashboard.pbix***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/flipkart%20powerBIdashboard.pbix"> Flipkart PowerBI Dashboard.pbix
+
+
 
 
 
