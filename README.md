@@ -143,6 +143,7 @@ Key objectives:
 
 ***Implement AI-based dynamic pricing models based on demand, ratings, and reviews.***
 
+---
 
 ## **Project Report Description**
 
