@@ -28,7 +28,7 @@ Key objectives:
 * Reviews
 * Bank Offers
 
-**Flipkart Scrapping CSV Raw Data**
+***Flipkart Scrapping CSV Raw Data***
 - <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Flipkart_scrap.csv"> Flipkart_scrap.csv
 
 **2️⃣ Data Cleaning**
@@ -38,18 +38,20 @@ Key objectives:
 * Removed duplicates
 * Created a clean dataset for analysis
 
-**Flipkart Cleaning CSV Raw Data**
+***Flipkart Cleaning CSV Raw Data***
 - <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/cleaning_and_eda.csv"> cleaning_and_eda.csv
 
 
 
-3️⃣ Exploratory Data Analysis
-Analyzed:
-Price distribution
-Ratings distribution
-Relationship between price and ratings
-Discount patterns
-Popular products based on reviews
+**3️⃣ Exploratory Data Analysis**
+
+***Analyzed:***
+
+* Price distribution
+* Ratings distribution
+* Relationship between price and ratings
+* Discount patterns
+* Popular products based on reviews
 4️⃣ Machine Learning Modeling
 Prepared features for modeling
 Built ML models to understand patterns between price, rating, and reviews
