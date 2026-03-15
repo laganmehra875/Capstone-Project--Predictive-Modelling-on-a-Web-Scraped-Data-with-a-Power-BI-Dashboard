@@ -28,8 +28,17 @@ Key objectives:
 * Reviews
 * Bank Offers
 
+***Flipkart_Web_Scrapping.ipynb***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/flipkart_Web_Scrapping.ipynb"> flipkart_Web_Scrapping.ipynb
+
+
+***Flipkart_Webscraping.pdf***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/flipkart_Webscraping.pdf"> Flipkart_Webscraping.pdf
+
+
 ***Flipkart Scrapping CSV Raw Data***
 - <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Flipkart_scrap.csv"> Flipkart_scrap.csv
+
 
 **2️⃣ Data Cleaning**
 
@@ -38,9 +47,16 @@ Key objectives:
 * Removed duplicates
 * Created a clean dataset for analysis
 
-***Flipkart Cleaning CSV Raw Data***
-- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/cleaning_and_eda.csv"> cleaning_and_eda.csv
+***Data cleaning EDA .ipynb***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Data%20cleaning%20EDA%20.ipynb"> Data cleaning EDA .ipynb
 
+
+***Data cleaning and EDA .pdf***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Data%20cleaning%20and%20EDA%20.pdf"> Data cleaning and EDA .pdf
+
+
+***Flipkart Cleaning CSV Raw Data***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/cleaning_and_eda.csv"> Cleaning_and_EDA.csv
 
 
 **3️⃣ Exploratory Data Analysis**
@@ -52,12 +68,26 @@ Key objectives:
 * Relationship between price and ratings
 * Discount patterns
 * Popular products based on reviews
-4️⃣ Machine Learning Modeling
-Prepared features for modeling
-Built ML models to understand patterns between price, rating, and reviews
-5️⃣ Power BI Dashboard
-Created dashboards showing:
-Price comparison
-Rating analysis
-Product popularity
-Discount insights
+  
+**4️⃣ Machine Learning Modeling** 
+
+* Prepared features for modeling
+* Built ML models to understand patterns between price, rating, and reviews
+
+***Machiine Modeling Flipkart project.ipynb***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Machiine%20Modeling%20Flipkart%20project.ipynb"> Machiine Modeling Flipkart project.ipynb
+
+***Machine Modeling.pdf***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/MAachine%20Modeling.pdf"> Machine Modeling.pdf
+
+  
+**5️⃣ Power BI Dashboard**
+* Created dashboards showing:
+* Price comparison
+* Rating analysis
+* Product popularity
+* Discount insights
+
+
+
+
