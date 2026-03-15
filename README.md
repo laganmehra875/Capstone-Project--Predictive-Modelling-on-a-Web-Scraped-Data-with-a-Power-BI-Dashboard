@@ -1,6 +1,6 @@
 # Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard
 
-**🎯 Project Objective
+**🎯Project Objective**
 
 The main objective of this project is to analyze e-commerce product data from Flipkart to understand pricing patterns, customer ratings, reviews, and discount strategies.
 
