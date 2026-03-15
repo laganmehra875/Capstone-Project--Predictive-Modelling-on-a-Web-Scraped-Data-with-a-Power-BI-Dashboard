@@ -116,14 +116,23 @@ Key objectives:
 **Business Recommendations**
 
 **1️⃣ Optimize Discount Strategies**
+
 ***Flipkart should focus on strategic discounts rather than random price cuts to maximize sales.***
+
 **2️⃣ Promote Highly Rated Products**
+
 ***Products with ratings above 4 stars should be highlighted in search results and recommendations.***
+
 **3️⃣ Use Review Count for Ranking**
+
 ***Products with high review counts should be promoted since customers trust socially validated products.***
+
 **4️⃣ Improve Product Visibility**
+
 ***Use bank offers and limited stock notifications to increase urgency and improve conversion rates.***
+
 **5️⃣ Dynamic Pricing Strategy**
+
 ***Implement AI-based dynamic pricing models based on demand, ratings, and reviews.***
 
 
