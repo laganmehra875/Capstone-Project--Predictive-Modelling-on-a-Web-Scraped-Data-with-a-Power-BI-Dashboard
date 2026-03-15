@@ -97,36 +97,46 @@ Key objectives:
 **Key Business Insights**
 
 **1️⃣ Discount Strategy Drives Sales**
+
 ***Products with higher discounts (difference between price and original price) tend to receive more customer attention and reviews.***
 
 **2️⃣ Ratings Strongly Influence Purchase Decisions**
+
 ***Products with ratings above 4.0 tend to attract significantly more reviews and engagement.***
 
 **3️⃣ Mid-Range Pricing Performs Better**
+
 ***Products priced in the mid-price segment often receive more reviews than very expensive items.***
 
 **4️⃣ Limited Offers Increase Urgency**
+
 ***Tags like "Only Few Left" or Bank Offers create urgency and may increase purchase probability.***
 
 **5️⃣ Product Popularity**
+
 ***Products with more reviews are perceived as more trustworthy, influencing new customers.***
 
 
 **Business Recommendations**
 
 **1️⃣ Optimize Discount Strategies**
+
 ***Flipkart should focus on strategic discounts rather than random price cuts to maximize sales.***
 
 **2️⃣ Promote Highly Rated Products**
+
 ***Products with ratings above 4 stars should be highlighted in search results and recommendations.***
 
 **3️⃣ Use Review Count for Ranking**
+
 ***Products with high review counts should be promoted since customers trust socially validated products.***
 
 **4️⃣ Improve Product Visibility**
+
 ***Use bank offers and limited stock notifications to increase urgency and improve conversion rates.***
 
 **5️⃣ Dynamic Pricing Strategy**
+
 ***Implement AI-based dynamic pricing models based on demand, ratings, and reviews.***
 
 
