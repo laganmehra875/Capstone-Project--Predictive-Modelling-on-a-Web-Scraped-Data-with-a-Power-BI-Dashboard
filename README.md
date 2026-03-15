@@ -31,11 +31,18 @@ Key objectives:
 **Flipkart Scrapping CSV Raw Data**
 - <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Flipkart_scrap.csv"> Flipkart_scrap.csv
 
-2️⃣ Data Cleaning
-Removed null values
-Converted prices into numeric format
-Removed duplicates
-Created a clean dataset for analysis
+**2️⃣ Data Cleaning**
+
+* Removed null values
+* Converted prices into numeric format
+* Removed duplicates
+* Created a clean dataset for analysis
+
+**Flipkart Cleaning CSV Raw Data**
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/cleaning_and_eda.csv"> cleaning_and_eda.csv
+
+
+
 3️⃣ Exploratory Data Analysis
 Analyzed:
 Price distribution
