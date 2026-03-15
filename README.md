@@ -151,6 +151,15 @@ Key objectives:
 
 
 
+***Flipkart Project Report .pdfx***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/project%20report%20.pdf"> Project Report .pdf
+
+
+
+***Flipkart Project Report .pptx***
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/project%20report%20.pptx"> Project Report .pptx
+
+---
 
 
 
