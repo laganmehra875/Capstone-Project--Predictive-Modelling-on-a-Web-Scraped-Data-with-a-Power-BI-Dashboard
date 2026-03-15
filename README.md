@@ -16,6 +16,7 @@ Key objectives:
 ***Overall Project Zip File***
 - <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Capstone%20Project%20Final%20INTERNSHALA%20Project.zip"> Overall Project Zip File
 
+---
 
 ## **Project Workflow**
 
@@ -94,6 +95,8 @@ Key objectives:
 ***Flipkart PowerBI Dashboard.pbix***
 - <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/flipkart%20powerBIdashboard.pbix"> Flipkart PowerBI Dashboard.pbix
 
+---
+
 ## **Key Business Insights**
 
 **1️⃣ Discount Strategy Drives Sales**
@@ -116,6 +119,7 @@ Key objectives:
 
 ***Products with more reviews are perceived as more trustworthy, influencing new customers.***
 
+---
 
 ## **Business Recommendations**
 
