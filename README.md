@@ -14,7 +14,7 @@ Key objectives:
 6. Generate business insights that can help e-commerce platforms improve pricing and marketing strategies.
 
 ***Overall Project Zip File***
-- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Capstone%20Project%20Final%20INTERNSHALA%20Project.zip"> verall Project Zip File
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Capstone%20Project%20Final%20INTERNSHALA%20Project.zip"> Overall Project Zip File
 
 
 **Project Workflow**
