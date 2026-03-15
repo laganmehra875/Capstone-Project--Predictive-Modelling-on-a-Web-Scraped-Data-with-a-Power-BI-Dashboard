@@ -1,6 +1,6 @@
 # Capstone-Project on Flipkart--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard
 
-**🎯Project Objective**
+## **🎯Project Objective**
 
 The main objective of this project is to analyze e-commerce product data from Flipkart to understand pricing patterns, customer ratings, reviews, and discount strategies.
 
@@ -17,7 +17,7 @@ Key objectives:
 - <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Capstone%20Project%20Final%20INTERNSHALA%20Project.zip"> Overall Project Zip File
 
 
-**Project Workflow**
+## **Project Workflow**
 
 **1️⃣ Web Scraping**
 
@@ -94,7 +94,7 @@ Key objectives:
 ***Flipkart PowerBI Dashboard.pbix***
 - <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/flipkart%20powerBIdashboard.pbix"> Flipkart PowerBI Dashboard.pbix
 
-**Key Business Insights**
+## **Key Business Insights**
 
 **1️⃣ Discount Strategy Drives Sales**
 
@@ -117,7 +117,7 @@ Key objectives:
 ***Products with more reviews are perceived as more trustworthy, influencing new customers.***
 
 
-**Business Recommendations**
+## **Business Recommendations**
 
 **1️⃣ Optimize Discount Strategies**
 
@@ -140,7 +140,7 @@ Key objectives:
 ***Implement AI-based dynamic pricing models based on demand, ratings, and reviews.***
 
 
-**Project Report Description**
+## **Project Report Description**
 
 ***This repository contains the complete project report for the Real-Time Flipkart Product Data Scraping and Analysis using Python project. The report explains the project objectives, data collection using web scraping, data cleaning, exploratory data analysis, and business insights derived from the Flipkart product dataset.***
 
