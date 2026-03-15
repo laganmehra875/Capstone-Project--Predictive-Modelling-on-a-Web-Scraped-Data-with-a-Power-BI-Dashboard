@@ -140,10 +140,9 @@ Key objectives:
 ***Implement AI-based dynamic pricing models based on demand, ratings, and reviews.***
 
 
+**Project Report Description**
 
-
-
-
+***This repository contains the complete project report for the Real-Time Flipkart Product Data Scraping and Analysis using Python project. The report explains the project objectives, data collection using web scraping, data cleaning, exploratory data analysis, and business insights derived from the Flipkart product dataset.***
 
 
 
