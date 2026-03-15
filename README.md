@@ -27,6 +27,10 @@ Key objectives:
 * Ratings
 * Reviews
 * Bank Offers
+
+**Flipkart Scrapping CSV Raw Data**
+- <a href="https://github.com/laganmehra875/Capstone-Project--Predictive-Modelling-on-a-Web-Scraped-Data-with-a-Power-BI-Dashboard/blob/main/Flipkart_scrap.csv"> Flipkart_scrap.csv
+
 2️⃣ Data Cleaning
 Removed null values
 Converted prices into numeric format
