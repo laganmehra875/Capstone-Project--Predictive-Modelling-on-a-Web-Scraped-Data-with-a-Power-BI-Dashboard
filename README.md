@@ -12,3 +12,39 @@ Key objectives:
 4. Build machine learning models to analyze relationships between product features such as price, ratings, and reviews.
 5. Visualize insights using Power BI dashboards for better business decision-making.
 6. Generate business insights that can help e-commerce platforms improve pricing and marketing strategies.
+
+
+**Project Workflow**
+
+**1️⃣ Web Scraping**
+
+***Scraped product data from Flipkart.***
+  
+***Extracted product attributes such as:***
+* Product Name
+* Price
+* Original Price
+* Ratings
+* Reviews
+* Bank Offers
+2️⃣ Data Cleaning
+Removed null values
+Converted prices into numeric format
+Removed duplicates
+Created a clean dataset for analysis
+3️⃣ Exploratory Data Analysis
+Analyzed:
+Price distribution
+Ratings distribution
+Relationship between price and ratings
+Discount patterns
+Popular products based on reviews
+4️⃣ Machine Learning Modeling
+Prepared features for modeling
+Built ML models to understand patterns between price, rating, and reviews
+5️⃣ Power BI Dashboard
+Created dashboards showing:
+Price comparison
+Rating analysis
+Product popularity
+Discount insights
